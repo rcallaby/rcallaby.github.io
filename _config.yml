@@ -1,9 +1,10 @@
 remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
 - jekyll-remote-theme # 
-title: Richard Callaby's GitHub PAge
+title: Richard Callaby's GitHub Page
 description: 
-
+show_sidebar: false
+menubar: mainmenu
 footer_menu: myfootermenu
 
 
