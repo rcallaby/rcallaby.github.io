@@ -1,5 +1,5 @@
-- name: Page Name
-  link: /page-1/
+- name: Interview Questions
+  link: /Software-Interview-Questions/blob/main/README.md
 - name: Blog
   link: /blog/
   dropdown: 
