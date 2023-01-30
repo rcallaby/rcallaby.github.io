@@ -1,7 +1,7 @@
 - name: Interview Questions
-  link: /Software-Interview-Questions
-- name: Blog
-  link: /blog/
+  link: /Software-Interview-Questions/
+- name: My Blog
+  link: http://www.richardcallaby.com
   dropdown: 
     - name: Page 2
       link: /page-2/
