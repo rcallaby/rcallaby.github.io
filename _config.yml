@@ -6,5 +6,7 @@ description:
 show_sidebar: false
 menubar: mainmenu
 footer_menu: myfootermenu
+permalink: pretty
+
 
 
