@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Richard Callaby</h1>
 <h3 align="center">A curious security researcher who also writes code.</h3>
 
-- 🌱 I’m currently learning **OSCP, PNTP, and eJPT**
+- 🌱 I’m currently learning **OSCP, PJNP, PNTP, and eJPT**
 
 - 📝 I regularly write articles on [http://www.richardcallaby.com](http://www.richardcallaby.com)
 
