@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **OSCP, PJNP, PNTP, and eJPT**
 
+- 🌱 I'm also preparing for multiple certifications such as **Security+, Network+, and other Microsoft Azure Certifications**
+
 - 📝 I regularly write articles on [http://www.richardcallaby.com](http://www.richardcallaby.com)
 
 - 📫 How to reach me **rcallaby@gmail.com**
