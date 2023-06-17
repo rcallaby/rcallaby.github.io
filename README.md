@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [http://www.richardcallaby.com](http://www.richardcallaby.com)
 
-- 📫 How to reach me **rcallaby@gmail.com**
+- 📫 How to reach me **richard@richardcallaby.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
