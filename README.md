@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [http://www.richardcallaby.com](http://www.richardcallaby.com)
 
-- 📝 Be sure to check out my YouTube channel and subscribe at http://www.youtube.com/@richardcallaby
+- 📝 Be sure to check out my [YouTube channel](http://www.youtube.com/@richardcallaby) and subscribe 
 
 - 📫 How to reach me **richard@richardcallaby.com**
 
