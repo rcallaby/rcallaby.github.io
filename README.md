@@ -5,9 +5,9 @@
 
 - 🌱 I'm also preparing for multiple certifications such as **Security+, Network+, and other Microsoft Azure Certifications**
 
-- 📝 I regularly write articles on [http://www.richardcallaby.com](http://www.richardcallaby.com)
+- 📝 I regularly write articles on **[http://www.richardcallaby.com](http://www.richardcallaby.com)**
 
-- 📝 Be sure to check out my [YouTube channel](http://www.youtube.com/@richardcallaby) and subscribe 
+- 📝 Be sure to check out my **[YouTube channel](http://www.youtube.com/@richardcallaby)** and **subscribe!** 
 
 - 📫 How to reach me **richard@richardcallaby.com**
 
