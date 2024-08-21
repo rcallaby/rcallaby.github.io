@@ -5,7 +5,7 @@
 
 - 🌱 I'm also preparing for multiple certifications such as **Security+, Network+, and other Microsoft Azure Certifications**
 
-- 🌱 I’m currently ranking Pro-Hacker on **[Hack The Box](https://app.hackthebox.com/profile/171426)**
+- 🌱 I’m currently ranking Elite-Hacker on **[Hack The Box](https://app.hackthebox.com/profile/171426)**
 
 - 📝 I regularly write articles on **[http://www.richardcallaby.com](http://www.richardcallaby.com)**
 
