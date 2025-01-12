@@ -7,8 +7,6 @@
 
 - 🌱 I have also discovered an interest in Computer Forensics
 
-- 🌱 I’m currently ranking Elite-Hacker on **[Hack The Box](https://app.hackthebox.com/profile/171426)**
-
 - 📝 I regularly write articles on **[http://www.richardcallaby.com](http://www.richardcallaby.com)**
 
 - 📝 I have a portfolio you can view at **[http://www.richardcallaby.dev](http://www.richardcallaby.dev)**
