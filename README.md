@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Richard Callaby</h1>
-<h3 align="center">Driven software developer, dedicated teacher, and skilled information security enthusiast, deeply committed to open-source innovation and knowledge sharing.</h3>
+<h3 align="center">Driven software developer, dedicated teacher, and information security enthusiast, deeply committed to open-source and knowledge sharing.</h3>
 
 - 🌱 I’m currently learning **Various Ethical Hacking Techniques**
 
