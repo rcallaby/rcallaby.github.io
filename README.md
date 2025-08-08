@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Richard Callaby</h1>
+<h1 align="center">Hello, I am Richard Callaby</h1>
 <h3 align="center">Driven software developer, dedicated teacher, and information security enthusiast, deeply committed to open-source and knowledge sharing.</h3>
 
 - 🌱 I’m currently learning **Various Ethical Hacking Techniques**
